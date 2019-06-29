@@ -1,0 +1,86 @@
+{
+  "playlistCollection": [
+    {
+      "id":"01",
+      "title": "Beethoven Sonatas",
+      "songs": [
+        {
+          "id":"03",
+          "title": "Piano Sonata No. 3",
+          "artist": "Beethoven",
+          "duration":"5",
+          "genre":"Pop"
+        },
+        {
+          "id":"07",
+          "title": "Piano Sonata No. 7",
+          "artist": "Beethoven",
+          "duration":"2",
+          "genre":"Pop"
+        },
+        {
+          "id":"10",
+          "title": "Piano Sonata No. 10",
+          "artist": "Beethoven",
+          "duration":"4",
+          "genre":"Rock"
+        }
+      ]
+      
+    },
+    {
+      "id":"02",
+      "title": "Beethoven Concertos",
+      "songs": [
+        {
+          "id":"0",
+          "title": "Piano Concerto No. 0",
+          "artist": "Beethoven",
+          "duration":"3",
+          "genre":"Pop"
+        },
+        {
+          "id":"04",
+          "title": "Piano Concerto No. 4",
+          "artist": "Beethoven",
+          "duration":"6",
+          "genre":"Rock"
+        },
+        {
+          "id":"06",
+          "title": "Piano Concerto No. 6",
+          "artist": "Beethoven",
+          "duration":"4",
+          "genre":"Pop"
+        }
+      ]
+    },    
+      {
+        "id":"03",
+        "title": "My Playlist",
+        "songs": [
+          {
+            "id":"05",
+            "title": "Piano Concerto No. 5",
+            "artist": "Beethoven",
+          "duration":"8",
+          "genre":"Pop"
+          },
+          {
+            "id":"20",
+            "title": "Piano Concerto No. 20",
+            "artist": "Beethoven",
+          "duration":"5",
+          "genre":"Pop"
+          },
+          {
+            "id":"10",
+            "title": "Piano Concerto No. 10",
+            "artist": "Beethoven",
+          "duration":"4",
+          "genre":"Pop"
+        }
+      ]
+    }
+  ]
+}
