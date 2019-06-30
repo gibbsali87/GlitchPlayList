@@ -5,33 +5,10 @@
     <h2 class="ui header">
       {{title}}
     </h2>
-    <table class="ui table">
-      <thead>
-        <tr>
-          <th>Song</th>
-          <th>Artist</th>
-          <th>Duration</th>
-          <th>Genre</th>
-        </tr>
-      </thead>
-      <tbody>
-        {{#each songs}}
-          <tr>
-            <td>
-              {{title}}
-            </td>
-            <td>
-              {{artist}}
-            </td>
-            <td>
-              {{duration}}
-            </td>
-            <td>
-              {{genre}}
-            </td>
-          </tr>
-        {{/each}}
-      </tbody>
-    </table>
+    <p> Total Duration: {{duration}} </p>
+    
+    <a href="/playlist/{{id}}" class="far fa-folder-open" size="3X"></a>
+    
+    <i class="fas fa-trash-alt"><a></a></i>
   </section>
 {{/each}}
